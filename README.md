@@ -1,18 +1,18 @@
-# Bienvenido a Mi Perfil de GitHub
+# Bienvenido a Mi Perfil de GitHub 👋
 
 Hola, soy un desarrollador fullstack apasionado por crear y diseñar soluciones de software eficientes y escalables. Con una sólida experiencia en el desarrollo de aplicaciones web y servicios, me especializo en el uso de tecnologías como .NET y Angular, y tengo un conocimiento práctico de Java y Python. Mi enfoque se centra en la creación y consumo de APIs y microservicios, tanto REST como SOAP, asegurando la integración y comunicación fluida entre diferentes sistemas y plataformas.
 
-## Habilidades Técnicas
+## Habilidades Técnicas 🚀
 
-- **Lenguajes de Programación:** .NET, Angular, Java, Python.
-- **APIs y Microservicios:** Experiencia en el desarrollo y consumo de servicios REST y SOAP.
-- **Bases de Datos:** Profundo conocimiento y manejo de SQL Server y MySQL.
-- **Herramientas y Otros Conocimientos:** Experiencia en capacitaciones de Oracle One por Alura Latam y certificación en Backend con Java.
+- 👨‍💻 **Lenguajes de Programación:** .NET, Angular, Java, Python.
+- 🌐 **APIs y Microservicios:** Experiencia en el desarrollo y consumo de servicios REST y SOAP.
+- 🗄️ **Bases de Datos:** Profundo conocimiento y manejo de SQL Server y MySQL.
+- 🛠️ **Herramientas y Otros Conocimientos:** Experiencia en capacitaciones de Oracle One por Alura Latam y certificación en Backend con Java.
 
-## Certificaciones y Formación
+## Certificaciones y Formación 🎓
 
-- **Certificación de Backend en Java:** Una validación de mis habilidades y conocimientos en el desarrollo de aplicaciones backend utilizando Java.
-- **Capacitación de Oracle One:** Participé en la capacitación ofrecida por Alura Latam, ampliando mis conocimientos en tecnologías Oracle y mejores prácticas en el desarrollo de software.
+- 📚 **Certificación de Backend en Java:** Una validación de mis habilidades y conocimientos en el desarrollo de aplicaciones backend utilizando Java.
+- 📚 **Capacitación de Oracle One:** Participé en la capacitación ofrecida por Alura Latam, ampliando mis conocimientos en tecnologías Oracle y mejores prácticas en el desarrollo de software.
 
 ## Proyectos y Colaboraciones
 
